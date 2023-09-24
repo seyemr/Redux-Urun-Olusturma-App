@@ -1,7 +1,7 @@
 
 # Ürün Oluşturma Uygulaması
 
-<img src="../gif/gif.gif">
+<img src="/redux-app/src/gif/gif.gif">
 
 Bu proje, React ve Redux kullanılarak geliştirilmiş bir ürün oluşturma uygulamasını içerir. Bu uygulama, kullanıcıların ürünler oluşturmasına, düzenlemesine, silmesine, fiyatlarına göre filtrelemesine ve aramasına olanak tanır.
 
